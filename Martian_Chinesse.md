@@ -20,5 +20,5 @@
 <p align="center">
 最近更新
 <br>04/02/2016
-<br>王培栋
+<br>Peidong Wang
 </p>
