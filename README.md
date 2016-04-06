@@ -1,6 +1,6 @@
 ## Documents
 
-This repository contains documents for the project description and technical details.
+This repository contains documents of the project description and technical details.
 
 <p align="center">
 Last Update
