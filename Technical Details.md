@@ -1,4 +1,6 @@
-<center><h3>Self Organized Social Network Based on Emails</h3></center>
+<p align="center"><b><h3>Self Organized Social Network Based on Emails</h3></b></p>
+
+<!--<center><h3>Self Organized Social Network Based on Emails</h3></center>-->
 
 <center>Peidong Wang, Linfeng Yu</center>
 
