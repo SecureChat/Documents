@@ -1,12 +1,4 @@
-<!--# <p align="center"><b>Self Organized Social Network Based on Emails</b></p>-->
-
-<!--<h3 style="text-align: center;">Self Organized Social Network Based on Emails</h3>-->
-<div style="text-align:center">Self Organized Social Network Based on Emails</div>
-<!--<center><h3>Self Organized Social Network Based on Emails</h3></center>-->
-
-<center>Peidong Wang, Linfeng Yu</center>
-
-<center>04/02/2016</center>
+<center><h3>Self Organized Social Network Based on Emails</h3></center>
 
 * How to send the friend requesting e-mail?  
 By uncoded email. If the receiver does not have the APP, he/she can accept the request via other email agents.
@@ -28,3 +20,7 @@ If we do not support such a function, then if two friends use the APP with email
 
 * How to realize groupchat?  
 A intuitive method is by the group-send function of emails. We may use some other techniques to delete the instant message after reading.
+
+Last Update:  
+04/02/2016  
+by Peidong Wang, Linfeng Yu
