@@ -1,7 +1,7 @@
 <!--# <p align="center"><b>Self Organized Social Network Based on Emails</b></p>-->
 
-<h3 style="text-align: center;" markdown="1">Self Organized Social Network Based on Emails</h3>
-
+<!--<h3 style="text-align: center;">Self Organized Social Network Based on Emails</h3>-->
+<div style="text-align:center">Self Organized Social Network Based on Emails</div>
 <!--<center><h3>Self Organized Social Network Based on Emails</h3></center>-->
 
 <center>Peidong Wang, Linfeng Yu</center>
