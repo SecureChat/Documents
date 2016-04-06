@@ -1,4 +1,6 @@
-<p align="center"><b><h3>Self Organized Social Network Based on Emails</h3></b></p>
+<!--# <p align="center"><b>Self Organized Social Network Based on Emails</b></p>-->
+
+<h3 style="text-align: center;" markdown="1">Self Organized Social Network Based on Emails</h3>
 
 <!--<center><h3>Self Organized Social Network Based on Emails</h3></center>-->
 
