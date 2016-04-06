@@ -1,6 +1,7 @@
 <center><h3>Self Organized Social Network Based on Emails</h3></center>
 
 <center>Peidong Wang, Linfeng Yu</center>
+
 <center>04/02/2016</center>
 
 * How to send the friend requesting e-mail?  
