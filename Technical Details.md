@@ -21,6 +21,8 @@ If we do not support such a function, then if two friends use the APP with email
 * How to realize groupchat?  
 A intuitive method is by the group-send function of emails. We may use some other techniques to delete the instant message after reading.
 
-<p align="right">Last Update:
+<p align="right">
+Last Update:
 <br>04/02/2016
-<br>by Peidong Wang, Linfeng Yu</p>
+<br>by Peidong Wang, Linfeng Yu
+</p>
